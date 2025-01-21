@@ -1,7 +1,7 @@
 {
-    "name": "reactjs-vite-tailwind-vercel",
+    "name": "math-adventures-3d",
     "version": "1.0.0",
-    "description": "ReactJS app with Vite, Tailwind",
+    "description": "Companion web app for Math Adventures 3D",
     "type": "module",
     "scripts": {
         "dev": "vite",
